@@ -1,0 +1,4 @@
+.case {
+    -fx-display-caret: false;
+    -fx-text-fill: blue;
+}
